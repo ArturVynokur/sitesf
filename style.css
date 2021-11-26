@@ -1,0 +1,32 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+.err{
+    border: 3px red solid;
+    width: 420px;
+    height: 200px;
+  
+} 
+.rer{
+    border: springgreen 3px solid;
+    width: 200px;
+    height: 195px;
+    display: inline-block;
+}
+
+.www{
+    border: 3px solid;
+    width: 426px;
+    height: 475px;
+}
+.q{
+    border: red solid 3px;
+    width: 180px;
+    height: 90px;
+    margin-left: 7px;
+    background-image: url(kotik_d_850.jpg);
+    background-size: cover;
+}
+.eer{
+    background-image: url(f4d2961b652880be432fb9580891ed62.jpg);
+}
